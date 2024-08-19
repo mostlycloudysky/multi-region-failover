@@ -29,10 +29,10 @@ multi-region-failover/
 ```
 
 ## Prerequisites
-- Python 3.9+
-- LocalStack: Local AWS service emulator.
-- Docker: To run LocalStack.
-- AWS CLI: For interacting with LocalStack.
+- `Python 3.9+`
+- `LocalStack`: Local AWS service emulator.
+- `Docker`: To run LocalStack.
+- `AWS CLI`: For interacting with LocalStack.
 
 ## Setup Instructions
 
