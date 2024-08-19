@@ -1,4 +1,4 @@
-# Multi-Region Kinesis Firehose Failover Simulation
+# Multi-Region AWS Kinesis Streams Failover Simulation
 
 ## Overview
 This project demonstrates how to simulate a failover scenario for AWS Kinesis and Firehose using LocalStack. The setup involves:
